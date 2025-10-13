@@ -1,2 +1,2 @@
-This is the best code for my awesome MyMegaProject.
-This is the second line of code written in Main-Branch.
+This is the best code for my awesome MyMegaProject. Text is fixed in Testi-Branch.
+Here is some more code written in Testi-Branch.
