@@ -1,1 +1,2 @@
-This is the best code for my awesom MyMegaProject.
+This is the best code for my awesome MyMegaProject. Text is fixed in Testi-Branch.
+Here is some more code written in Testi-Branch.
